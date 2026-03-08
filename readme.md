@@ -26,7 +26,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,494 | 🐛 73 | 📅 2026-03-04 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -74,7 +74,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Business
 
-* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,070 | 🐛 223 | 🌐 Java | 📅 2026-02-20 - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,071 | 🐛 225 | 🌐 Java | 📅 2026-03-07 - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 * [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) ⭐ 503 | 🐛 8 | 🌐 PHP | 📅 2025-12-03 - International Bank Account Numbers are not international.
 * [`tax`](https://github.com/commerceguys/tax) ⭐ 285 | 🐛 13 | 🌐 PHP | 📅 2025-07-08 - A PHP 5.4+ tax management library.
 * [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - Covers prices, currencies and inventory.
@@ -88,7 +88,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Cryptocurrency
 
-* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 80 | 🐛 16 | 🌐 Java | 📅 2026-02-15 - A list of mistaken perspectives on Bitcoin.
+* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 79 | 🐛 16 | 🌐 Java | 📅 2026-03-01 - A list of mistaken perspectives on Bitcoin.
 * [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
 ## Dates and Time
@@ -126,7 +126,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 * [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - Provides intricate examples that are unsuspected valid email addresses according the RFC-822.
 * [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - Presentation of edge-case email addresses and why you should not use regex to parse them.
 * [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html) - A summary of the various, surprising things that are allowed in an email address.
-* [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) ⭐ 65 | 🐛 0 | 🌐 C | 📅 2026-02-20 - A library that implements RFC-based checks for e-mail addresses.
+* [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) ⭐ 65 | 🐛 0 | 🌐 C | 📅 2026-03-02 - A library that implements RFC-based checks for e-mail addresses.
 
 ## Geography
 
@@ -155,8 +155,8 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 On character encoding, string formatting, unicode and internationalization.
 
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,577 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
-* [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) ⭐ 966 | 🐛 8 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,604 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
+* [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) ⭐ 969 | 🐛 8 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
 * [i18n Testing Data](https://github.com/patch/i18n-testing) ⭐ 65 | 🐛 3 | 📅 2020-04-28 - Compilation of real-word international and diverse name data for unit testing and QA.
 * [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating a software from English is not as straightforward as it seems to be.
 * [Falsehoods about Language](https://www.lexiconista.com/falsehoods-about-languages/) - Additional cases to complement the previous article.
@@ -193,12 +193,12 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 17,840 | 🐛 122 | 🌐 C++ | 📅 2026-02-20 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/googlei18n/libphonenumber) ⭐ 17,840 | 🐛 122 | 🌐 C++ | 📅 2026-02-20 - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 894 | 🐛 8 | 🌐 C# | 📅 2026-02-14, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,370 | 🐛 0 | 🌐 Objective-C | 📅 2025-12-05, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,710 | 🐛 12 | 🌐 Python | 📅 2026-02-13, [Ruby](https://github.com/sstephenson/global_phone) ⚠️ Archived and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 4,997 | 🐛 4 | 🌐 PHP | 📅 2026-01-30.
+* [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 17,868 | 🐛 122 | 🌐 C++ | 📅 2026-03-01 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/googlei18n/libphonenumber) ⭐ 17,868 | 🐛 122 | 🌐 C++ | 📅 2026-03-01 - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 897 | 🐛 9 | 🌐 C# | 📅 2026-02-28, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,372 | 🐛 1 | 🌐 Objective-C | 📅 2026-03-05, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,720 | 🐛 12 | 🌐 Python | 📅 2026-02-26, [Ruby](https://github.com/sstephenson/global_phone) ⚠️ Archived and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,001 | 🐛 2 | 🌐 PHP | 📅 2026-02-26.
 
 ## Postal Addresses
 
-* [`addressing`](https://github.com/commerceguys/addressing) ⭐ 948 | 🐛 18 | 🌐 PHP | 📅 2026-02-13 - A PHP 5.4+ addressing library, powered by Google's dataset.
+* [`addressing`](https://github.com/commerceguys/addressing) ⭐ 952 | 🐛 20 | 🌐 PHP | 📅 2026-02-26 - A PHP 5.4+ addressing library, powered by Google's dataset.
 * [`libaddressinput`](https://github.com/googlei18n/libaddressinput) ⭐ 616 | 🐛 47 | 🌐 C++ | 📅 2025-06-12 - Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 * [`postal-address`](https://github.com/scaleway/postal-address) ⭐ 184 | 🐛 15 | 🌐 Python | 📅 2023-10-18 - Python module to parse, normalize and render postal addresses.
 * [`address`](https://github.com/Boostport/address) ⭐ 96 | 🐛 0 | 🌐 Go | 📅 2025-08-15 - Go library to validate and format addresses using Google's dataset.
@@ -277,13 +277,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,065 | 🐛 7 | 📅 2026-01-20 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,131 | 🐛 7 | 📅 2026-01-20 first.
 
 ## Footnotes
 
-This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 6 | 🐛 6 | 📅 2025-10-11.
+This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 6 | 🐛 8 | 📅 2026-03-07.
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,065 | 🐛 7 | 📅 2026-01-20 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,131 | 🐛 7 | 📅 2026-01-20 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 

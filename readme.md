@@ -26,7 +26,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,032 | 🐛 67 | 📅 2026-04-19 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,414 | 🐛 66 | 📅 2026-04-19 list of falsehoods programmers believe in. A *falsehood* is an ***idea* that you initially believed was true**, but in reality, it is **proven to be false**.
 
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
@@ -74,9 +74,9 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Business
 
-* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,088 | 🐛 206 | 🌐 Java | 📅 2026-04-23 - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+* [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) ⭐ 1,088 | 🐛 210 | 🌐 Java | 📅 2026-04-24 - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 * [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) ⭐ 503 | 🐛 6 | 🌐 PHP | 📅 2025-12-03 - International Bank Account Numbers are not international.
-* [`tax`](https://github.com/commerceguys/tax) ⭐ 284 | 🐛 13 | 🌐 PHP | 📅 2025-07-08 - A PHP 5.4+ tax management library.
+* [`tax`](https://github.com/commerceguys/tax) ⭐ 284 | 🐛 14 | 🌐 PHP | 📅 2025-07-08 - A PHP 5.4+ tax management library.
 * [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - Covers prices, currencies and inventory.
 * [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
 * [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
@@ -88,7 +88,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Cryptocurrency
 
-* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 82 | 🐛 15 | 🌐 Java | 📅 2026-04-21 - A list of mistaken perspectives on Bitcoin.
+* [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) ⭐ 82 | 🐛 15 | 🌐 Java | 📅 2026-04-23 - A list of mistaken perspectives on Bitcoin.
 * [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
 ## Dates and Time
@@ -157,7 +157,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,619 | 🐛 108 | 🌐 Python | 📅 2024-04-18 - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 * [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) ⭐ 971 | 🐛 8 | 🌐 JavaScript | 📅 2022-07-01 - A curated list of delightful Unicode tidbits, packages and resources.
-* [i18n Testing Data](https://github.com/patch/i18n-testing) ⭐ 67 | 🐛 3 | 📅 2020-04-28 - Compilation of real-word international and diverse name data for unit testing and QA.
+* [i18n Testing Data](https://github.com/patch/i18n-testing) ⭐ 67 | 🐛 3 | 📅 2026-04-23 - Compilation of real-word international and diverse name data for unit testing and QA.
 * [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating a software from English is not as straightforward as it seems to be.
 * [Falsehoods about Language](https://www.lexiconista.com/falsehoods-about-languages/) - Additional cases to complement the previous article.
 * [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - Plain text can't cut it, which makes Unicode even more incredible for its ability to just work well.
@@ -193,8 +193,8 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
-* [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 17,961 | 🐛 128 | 🌐 C++ | 📅 2026-04-23 - Covers phone numbers, their representation and meaning.
-* [`libphonenumber`](https://github.com/googlei18n/libphonenumber) ⭐ 17,961 | 🐛 128 | 🌐 C++ | 📅 2026-04-23 - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 902 | 🐛 8 | 🌐 C# | 📅 2026-04-14, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,380 | 🐛 1 | 🌐 Objective-C | 📅 2026-04-21, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,732 | 🐛 12 | 🌐 Python | 📅 2026-04-13, [Ruby](https://github.com/sstephenson/global_phone) ⚠️ Archived and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,025 | 🐛 2 | 🌐 PHP | 📅 2026-04-13.
+* [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) ⭐ 17,966 | 🐛 128 | 🌐 C++ | 📅 2026-04-23 - Covers phone numbers, their representation and meaning.
+* [`libphonenumber`](https://github.com/googlei18n/libphonenumber) ⭐ 17,966 | 🐛 128 | 🌐 C++ | 📅 2026-04-23 - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp) ⭐ 902 | 🐛 8 | 🌐 C# | 📅 2026-04-14, [Objective-C](https://github.com/iziz/libPhoneNumber-iOS) ⭐ 2,380 | 🐛 1 | 🌐 Objective-C | 📅 2026-04-21, [Python](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,732 | 🐛 12 | 🌐 Python | 📅 2026-04-13, [Ruby](https://github.com/sstephenson/global_phone) ⚠️ Archived and [PHP](https://github.com/giggsey/libphonenumber-for-php) ⭐ 5,026 | 🐛 2 | 🌐 PHP | 📅 2026-04-13.
 
 ## Postal Addresses
 
@@ -277,13 +277,13 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,312 | 🐛 1 | 📅 2026-04-13 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) ⭐ 27,316 | 🐛 1 | 📅 2026-04-13 first.
 
 ## Footnotes
 
 This list gathered some popularity in social medias over the past few years. See it being [discussed and mentioned elsewhere](https://github.com/kdeldycke/kdeldycke/blob/main/in-the-media.md) ⭐ 6 | 🐛 3 | 📅 2026-04-20.
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,312 | 🐛 1 | 📅 2026-04-13 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) ⭐ 27,316 | 🐛 1 | 📅 2026-04-13 is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 

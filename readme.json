@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-22T05:33:24Z",
+            "last_commit": "2026-05-22T22:50:31Z",
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1095
@@ -76,7 +76,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2025-07-08T11:13:52Z",
+            "last_commit": "2026-05-22T09:49:32Z",
             "owner": "commerceguys",
             "repo": "tax",
             "stars": 284
@@ -184,7 +184,7 @@
             "last_commit": "2024-04-18T03:26:59Z",
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47636
+            "stars": 47637
           }
         }
       ],
@@ -200,10 +200,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-21T12:05:00Z",
+            "last_commit": "2026-05-22T09:37:22Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18032
+            "stars": 18035
           }
         },
         {
@@ -213,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-21T12:05:00Z",
+            "last_commit": "2026-05-22T09:37:22Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18032
+            "stars": 18035
           }
         }
       ],
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:11:03.605Z",
+    "last_updated": "2026-05-23T05:41:27.680Z",
     "original_repository": "kdeldycke/awesome-falsehood",
     "source_repository": "v1nvn/enhansome-falsehood",
     "source_repository_description": null,

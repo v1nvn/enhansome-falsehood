@@ -184,7 +184,7 @@
             "last_commit": "2024-04-18T03:26:59Z",
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47666
+            "stars": 47669
           }
         }
       ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-06-05T11:19:56Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18062
+            "stars": 18064
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-06-05T11:19:56Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18062
+            "stars": 18064
           }
         }
       ],
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:27:06.380Z",
+    "last_updated": "2026-06-08T06:46:47.733Z",
     "original_repository": "kdeldycke/awesome-falsehood",
     "source_repository": "v1nvn/enhansome-falsehood",
     "source_repository_description": null,

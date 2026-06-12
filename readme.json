@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-10T23:22:28Z",
+            "last_commit": "2026-06-11T17:00:50Z",
             "owner": "unicode-org",
             "repo": "cldr",
             "stars": 1103
@@ -128,7 +128,7 @@
             "last_commit": "2022-07-01T15:20:50Z",
             "owner": "jagracey",
             "repo": "Awesome-Unicode",
-            "stars": 976
+            "stars": 977
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2024-04-18T03:26:59Z",
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47678
+            "stars": 47672
           }
         }
       ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-06-11T06:02:44Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18069
+            "stars": 18074
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-06-11T06:02:44Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18069
+            "stars": 18074
           }
         }
       ],
@@ -319,7 +319,7 @@
             "last_commit": "2025-08-15T00:27:19Z",
             "owner": "Boostport",
             "repo": "address",
-            "stars": 95
+            "stars": 96
           }
         }
       ],
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:52:05.865Z",
+    "last_updated": "2026-06-12T06:44:55.868Z",
     "original_repository": "kdeldycke/awesome-falsehood",
     "source_repository": "v1nvn/enhansome-falsehood",
     "source_repository_description": null,
